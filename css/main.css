@@ -2,6 +2,7 @@ body {
   margin: 0px;
   padding: 0px;
   overflow-x: hidden;
+  background-color: steelblue;
 }
 
 .container>.row {
@@ -10,6 +11,7 @@ body {
 
 .card {
   padding: 5%;
+  margin-top: 20px;
 }
 
 .card-img>img {
@@ -35,5 +37,5 @@ body {
 
 .card>button {
   width: 80%;
-  margin: 25px auto;
+  margin: 15px auto;
 }
